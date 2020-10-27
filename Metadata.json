@@ -1,0 +1,20 @@
+{
+    "Author": "Razi Rais",
+    "ContentSize": 1591,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/connect-to-sharepoint-online-and-display-all-provisioned-site-collections/master/Display-AllSPOSites.ps1",
+    "DownloadCount": 2943,
+    "Id": "Connect-to-SharePoint-0b16dd14",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 55,
+    "RaterCount": 4,
+    "Rating": 4.3,
+    "ReleaseDate": "2014-8-23T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "DescriptionThis runbook connects to SharePoint Online Admin site and display Urls of all provisioned site collections. It uses SPO Cmdlets Connect-SPOService and Get-SPOSite. You can use this runbook to validate basic connectivty to SPO tenant. For more details read article\u00a0ht",
+    "Title": "Connect to SharePoint Online and display all provisioned site collections",
+    "UpdatedDate": "2014-8-23T00:00:00",
+    "Url": "https://github.com/azureautomation/connect-to-sharepoint-online-and-display-all-provisioned-site-collections",
+    "UserTags": "Microsoft Azure, SharePoint, Office 365"
+}
